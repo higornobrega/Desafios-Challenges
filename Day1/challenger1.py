@@ -68,3 +68,18 @@ class Solution:
          
         return cont
         
+# Solução 2 - Após um pouco de pesquisa
+# Solution 2 - After a litlle research
+class Solution:
+    def countWords(self, words1: List[str], words2: List[str]) -> int:
+        # Inicializa o contador
+        # Initialize the counter
+        count = 0
+        
+        # Percorre a lista 1 e verifica se a palavra só existe uma vez nas 2 listas
+        # Go through list 1 and check if the word only exists once in the 2 lists
+        for i in words1:
+            if words1.count(i) == words2.count(i) == 1:
+                count += 1
+        return count
+
