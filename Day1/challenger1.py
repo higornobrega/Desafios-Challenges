@@ -43,7 +43,7 @@ class Solution:
         
         # Checking for repeated words
         # Verificando se existe palavras repetidas
-        for word11 in words1:
+        for word11 in set(words1):
             for word12 in words1:
                 if word11 == word12:
                     cont_word = cont_word + 1
@@ -51,7 +51,7 @@ class Solution:
                 repet.append(word11)
             cont_word = 0
 
-        for word21 in words2:
+        for word21 in set(words2):
             for word22 in words2:
                 if word21 == word22:
                     cont_word = cont_word + 1
@@ -63,7 +63,7 @@ class Solution:
         # Verificando se a palavra se repete nas 2 listas mas não se repete na própria lista
         for word1 in words1:
             for word2 in words2:
-                if word1 == word2 and word1 not in repet:
+                if word1 == word2 and word1 not in set(repet):
                     cont = cont + 1
          
         return cont
