@@ -30,9 +30,8 @@ Constraints:
 words1[i] and words2[j] consists only of lowercase English letters.
 '''
 
-# Solution 1 - No help from the internet
-# Solução 1 - Sem Ajuda da internet
-
+# Solution 1
+# Solução 1
 class Solution:
     def countWords(self, words1: List[str], words2: List[str]) -> int:
         # Initialize the variables
@@ -68,8 +67,8 @@ class Solution:
          
         return cont
         
-# Solução 2 - Após um pouco de pesquisa
-# Solution 2 - After a litlle research
+# Solução 2
+# Solution 2
 class Solution:
     def countWords(self, words1: List[str], words2: List[str]) -> int:
         # Inicializa o contador
