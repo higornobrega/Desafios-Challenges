@@ -4,7 +4,7 @@
 
 **Descrição:**
 
-Este repositório documenta minha jornada no desafio 100 Dias Codificando, onde pretendo desenvolver todos os dias durante 100 dias. Aqui você encontrará os códigos dos desafios que concluí nos sites LeetCode: [https://leetcode.com/](https://leetcode.com/) e Beecrowd: [https://judge.beecrowd.com/pt](https://judge.beecrowd.com/pt).
+Este repositório documenta minha jornada no desafio 100 Dias Codificando, onde pretendo desenvolver durante 100 dias. Aqui você encontrará os códigos dos desafios que concluí nos sites LeetCode: [https://leetcode.com/](https://leetcode.com/) e Beecrowd: [https://judge.beecrowd.com/pt](https://judge.beecrowd.com/pt).
 
 **Objetivos:**
 
@@ -38,7 +38,7 @@ Este repositório está licenciado sob a licença MIT.
 
 **Description:**
 
-This repository documents my journey in the 100 Days of Coding Challenge, where I aim to code every day for 100 days. Here you will find the code for the challenges I completed on the websites LeetCode: [https://leetcode.com/](https://leetcode.com/) and Beecrowd: [https://judge.beecrowd.com/pt](https://judge.beecrowd.com/pt).
+This repository documents my journey in the 100 Days of Coding Challenge, where I aim to code for 100 days. Here you will find the code for the challenges I completed on the websites LeetCode: [https://leetcode.com/](https://leetcode.com/) and Beecrowd: [https://judge.beecrowd.com/pt](https://judge.beecrowd.com/pt).
 
 **Goals:**
 
