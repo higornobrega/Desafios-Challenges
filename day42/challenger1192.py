@@ -1,11 +1,7 @@
 '''
 
 1192. Conexões Críticas em uma Rede
-Resolvido
-Difícil
-Tópicos
-Empresas
-Dica
+
 Existem n servidores numerados de 0 a n - 1 conectados por conexões não direcionadas de servidor para servidor, formando uma rede onde connections[i] = [ai, bi] representa uma conexão entre os servidores ai e bi. Qualquer servidor pode alcançar outros servidores direta ou indiretamente através da rede.
 Uma conexão crítica é uma conexão que, se removida, fará com que alguns servidores não consigam alcançar outros servidores.
 
