@@ -5,7 +5,6 @@
 **Descrição:**
 
 Este repositório documenta minha jornada no desafio 100 Dias Codificando, onde pretendo desenvolver durante 100 dias. Aqui você encontrará os códigos dos desafios que concluí nos sites LeetCode: [https://leetcode.com/](https://leetcode.com/) e Beecrowd: [https://judge.beecrowd.com/pt](https://judge.beecrowd.com/pt).
-
 **Objetivos:**
 
 - Aprimorar minhas habilidades de programação.
