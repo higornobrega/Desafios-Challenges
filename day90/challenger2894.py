@@ -1,9 +1,5 @@
 '''
 2894. Diferença entre Somas Divisíveis e Não Divisíveis Resolvido
-Fácil
-Tópicos
-Empresas
-Dica
 
 Você tem dois inteiros positivos n e m.
 
